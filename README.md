@@ -1,5 +1,5 @@
-<!-- --># Original Datasets
-<!-- -->We conduct all experiments on four trajectories datasets: NYC and Tokyo which were collected from Foursquare and Los Angeles and Houston, which were extracted from Gowalla.
+<!-- # Original Datasets -->
+<!-- We conduct all experiments on four trajectories datasets: NYC and Tokyo which were collected from Foursquare and Los Angeles and Houston, which were extracted from Gowalla. -->
 
 # Document description
 We have three folders: data, model, and embedding.
